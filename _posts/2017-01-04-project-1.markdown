@@ -1,0 +1,15 @@
+---
+title: ProfHacks 2017
+subtitle: Head of Hacker Experience
+layout: default
+modal-id: 1
+date: 2017-02-05
+img: ProfHacks_img_full.png
+thumbnail: ProfHacks_thumbnail.png
+alt: image-alt
+project-date: February 2017
+client: Rowan University
+category: Management/Organization
+description: Arranged catering for five meals throughout the event, handled the ordering of ProfHacks branded swag and prizes to be distrubuted at the event, organized tasks for and coordinated volunteers before, during, and after the event.
+
+---

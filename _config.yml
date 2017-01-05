@@ -1,0 +1,33 @@
+url: richsbresny.me/
+baseurl: rsbresny.github.io
+
+# Site settings
+title: Rich Sbresny
+email: richardsbresny@gmail.com
+description: ECE Undergraduate @ Rowan University | Future ELDP @ Lockheed Martin
+
+
+# Team names, titles and social links
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/richardsbresny
+  - title: facebook
+    url: https://www.facebook.com/rsbresny
+  - title: linkedin
+    url: https://www.linkedin.com/in/richard-sbresny-6a244282
+  - title: github
+    url: http://github.com/rsbresny
+  - title: instagram
+    url: https://www.instagram.com/rsbresny/
+  - title: reddit
+    url: https://www.reddit.com/user/rsbresny/
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
