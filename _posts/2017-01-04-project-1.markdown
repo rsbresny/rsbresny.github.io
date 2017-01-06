@@ -10,6 +10,6 @@ alt: image-alt
 project-date: February 2017
 client: Rowan University
 category: Management/Organization
-description: Arranged catering for five meals throughout the event, handled the ordering of ProfHacks branded swag and prizes to be distrubuted at the event, organized tasks for and coordinated volunteers before, during, and after the event.
+description: Arranged catering for five meals throughout the event, handled the ordering of ProfHacks branded swag and prizes to be distrubuted at the event, organized tasks for and coordinated volunteers before, during, and after the event. For more information about ProfHacks, click [here](http://profhacks.com/).
 
 ---
