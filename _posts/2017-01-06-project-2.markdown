@@ -10,6 +10,6 @@ alt: image-alt
 project-date: In Progress
 client: Rowan University
 category: Embedded Systems/Sensors
-description: Designed Raspberry Pi based Data Acquisition System to record the power output of a small scale implementation of a buoy-pendulum Ocean Wave Energy Converter (WEC). Additionally, accelerometers were placed on the center of mass of the WEC and the center of mass of the internal pendulum of the design to gather and record data on their motion relative to one another during operation. Design funded by Rowan's alumni crowdfunding campaign: PROFfunder.
+description: Designed Raspberry Pi based Data Acquisition System to record the power output and accelerometer data from a small scale implementation of a buoy-pendulum Ocean Wave Energy Converter (WEC).
 
 ---
