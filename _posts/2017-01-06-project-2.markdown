@@ -3,9 +3,9 @@ title: ProfWave
 subtitle: Ocean Wave Energy Converter
 layout: default
 modal-id: 2
-date: 2017-05-10
-img: ProfWave_img_full.jpg
-thumbnail: ProfWave_thumbnail.jpg
+date: 2017-01-06
+img: ProfWave_img_full.png
+thumbnail: ProfWave_thumbnail.png
 alt: image-alt
 project-date: In Progress
 client: Rowan University
