@@ -2,7 +2,7 @@
 title: ProfWave
 subtitle: Ocean Wave Energy Converter
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2017-05-10
 img: ProfWave_img_full.jpg
 thumbnail: ProfWave_thumbnail.jpg
