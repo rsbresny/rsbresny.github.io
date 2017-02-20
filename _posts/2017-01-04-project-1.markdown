@@ -10,6 +10,6 @@ alt: image-alt
 project-date: February 2017
 client: Rowan University
 category: Management/Organization
-description: Arranged catering for five meals throughout the event, handled the ordering of ProfHacks branded swag and prizes to be distributed at the event, organized tasks for and coordinated volunteers before, during, and after the event.
+description: Involved in securing $18,500 in funding a student run 24-Hour hackathon at Rowan University. Created a budget to spend acquired funds on swag, snacks, catering, t-shirts and other resources. Also responsible for coordinating and scheduling volunteers before and during the event.
 
 ---
